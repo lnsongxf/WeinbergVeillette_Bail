@@ -1,6 +1,6 @@
 # Replication Package
 
-This replication package produces all the tables and figures from "Do Bail Bonds Prevent Failure to Appear at Trial?" by Alex Weinberg and John Veillette.
+This replication package produces all the tables and figures from "Do Bail Bonds Prevent Failure to Appear at Trial?" by [Alex Weinberg](https://alex-weinberg.com/) and [John Veillette](https://github.com/john-veillette). This paper was written for the undergraduate course Applied Microeconometrics taught by [Professor Ali Hortaçsu](https://home.uchicago.edu/~hortacsu/).
 
 ## Instructions
 
